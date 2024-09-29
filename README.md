@@ -1,7 +1,7 @@
 # Covid 19 Portfolio Project
 This is a portfolio project using SQL queries to analyze the Covid 19 dataset which shows critical information such as locations, total cases, total deaths, total vaccinations , etc.
 
-The Covid 19 dataset was used for this data analysis project. You can find it by visiting [*Our World in Data*](https://ourworldindata.org/covid-deaths)
+**Data Source:** The Covid 19 dataset was used for this data analysis project. You can find it by visiting [*Our World in Data*](https://ourworldindata.org/covid-deaths)
 
 **Skills used**: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
